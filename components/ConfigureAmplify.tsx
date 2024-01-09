@@ -1,4 +1,3 @@
-// components/ConfigureAmplify.tsx
 'use client'
 
 import config from '@/amplifyconfiguration.json'
